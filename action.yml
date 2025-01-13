@@ -16,3 +16,4 @@ input:
     description: the commiter name
     required: true
     default: ${{ github.actor }}
+    
